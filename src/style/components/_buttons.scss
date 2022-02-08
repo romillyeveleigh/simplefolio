@@ -95,3 +95,14 @@
 .up i {
   color: #272727;
 }
+
+.cta-btn--disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.cta-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
